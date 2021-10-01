@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/issakasanfo-quizmanager.iml" filepath="$PROJECT_DIR$/issakasanfo-quizmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/fr/epita/quizer/javafx.iml" filepath="$PROJECT_DIR$/src/fr/epita/quizer/javafx.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,31 @@
+************** Quiz Fri Oct 01 08:58:14 CEST 2021************
+
+
+Number:1 Question:What is JAVA?
+	 R_ID:1 Value:Java is a general-purpose, class-based, object-oriented programming language designed for having lesser implementation dependencies.
+	 R_ID:2 Value:I do not know!
+	 R_ID:3 Value:Java is a DB.
+
+
+
+Number:2 Question:What is Django?
+	 R_ID:4 Value:Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
+	 R_ID:5 Value:Django is the best Programing Language!
+	 R_ID:6 Value:Django is the creator of Python.
+
+
+
+Number:3 Question:Who is the Creator of Java?
+	 R_ID:7 Value:James Gosling.
+	 R_ID:8 Value:I do not know
+	 R_ID:9 Value:Isaac Newton
+
+
+
+Number:4 Question:What does mean UML?
+	 R_ID:10 Value:ULM is a DB
+	 R_ID:11 Value:The Unified Modeling Language (UML) is a general-purpose, developmental, modeling language in the field of software engineering that is intended to provide a standard way to visualize the design of a system.
+
+
+
+                                                                      By Issaka SANFO
