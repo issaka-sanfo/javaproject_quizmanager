@@ -1,9 +1,3 @@
-Hi Professor,
-
-I come with Project Earlier, Because I was late during The Exam due to the Traffic Problems.
-
-I hope by delivering My Project earlier will give me a favour.
-
 ARCHITECTURE:
 In this Project, I did my best to cover all the functionalities needed to Evaluate a Quiz,
 From Model, DTO, Services and Logic Functions.
